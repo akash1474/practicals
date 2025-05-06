@@ -1,0 +1,1 @@
+cat words.txt | python3 combined_mapper.py | sort | python3 combined_reducer.py
